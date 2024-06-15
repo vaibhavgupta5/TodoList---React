@@ -1,0 +1,12 @@
+.itemsContainer {
+    text-align: left;
+    
+  }
+  
+  input{
+    width: 100%;
+    padding: 1rem;
+    border-radius: 5px;
+    border: solid 1px black;
+  }
+
