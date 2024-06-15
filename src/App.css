@@ -1,0 +1,35 @@
+input {
+  width: 100%;
+}
+
+.kg-button {
+  width: 100%;;
+  height: 3.5rem;
+}
+
+.kg-row {
+  margin: 10px 5px;
+  display: flex;
+  align-items: center;
+  font-size: 1.25rem;
+  
+ border: 1px solid rgba(139, 139, 139, 0.349);
+ border-right: 3px solid rgba(139, 139, 139, 0.349);
+ border-bottom: 3px solid rgba(139, 139, 139, 0.349);
+ padding: 1rem;
+ border-radius: 15px;
+}
+
+*{
+  font-family: monospace;
+}
+
+
+
+.todo-container{
+  height: 100vh;
+  padding: 100px;
+  width: 100%;
+  border: 20px solid #020202;
+
+}
